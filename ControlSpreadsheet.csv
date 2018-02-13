@@ -1,38 +1,38 @@
-Robot ID,Motor ID,Can Bus ID,PWM Channel,PDP Channel ID,Breaker Needed,Max. Allowed Current,Notes
-981S,Drive Left Front,0,0,0,20,20,These are the IDs for the software sim of the 981 robot
-981S,Drive Left Rear,0,1,0,20,20,
-981S,Drive Right Front,0,0,0,20,20,
-981S,Drive Right Rear,0,0,0,20,20,
-981S,Gripper Left,0,0,0,20,20,
-981S,Gripper Right,0,1,0,20,20,
-981S,Winch Motor,0,0,0,20,20,
-981S,Fork Lift Motor,0,1,0,20,20,
-981,Drive Left Front,11,-1,0,40,28,These are the IDS for the competition robot
-981,Drive Left Rear,12,-1,1,40,29,
-981,Drive Right Front,13,-1,2,40,30,
-981,Drive Right Rear,14,-1,3,40,31,`
-981,Gripper Left,15,-1,4,40,32,
-981,Gripper Right,16,-1,5,40,33,
-981,Winch,17,-1,6,40,39,
-981,Arm,18,-1,7,40,40,
-981,Lights,0,0,8,20,2,"20 amp is overkill, but the minimum for the PDP"
-981,Raspberry Pi,0,0,9,20,3,
-981,Total PDP,0,0,17,120,118,
-984,Drive Left Front,11,-1,0,20,20,These are the IDS for the Rhino Robot practice robot
-984,Drive Left Rear,12,-1,1,20,20,
-984,Drive Left Center,13,-1,2,20,20,
-984,Drive Right Front,14,-1,12,20,20,
-984,Drive Right Rear,15,-1,13,20,20,
-984,Drive Right Center,16,-1,14,20,20,
-984,Gripper Left,17,-1,8,20,20,
-984,Gripper Right,18,-1,9,20,20,
-984,Winch,19,-1,4,20,20,
-984,Fork Lift Motor,20,-1,5,20,20,
-985,Drive Left Front,11,-1,0,20,20,These are the IDs for the AM drive practice robot
-985,Drive Left Rear,12,-1,1,20,20,
-985,Drive Right Front,13,-1,2,20,20,
-985,Drive Right Rear,14,-1,3,20,20,
-985,Gripper Left,15,-1,10,20,20,
-985,Gripper Right,16,-1,11,20,20,
-985,Winch Motor,17,-1,14,20,20,
-985,Fork Lift Motor,18,-1,5,20,20,
+Robot ID,Motor ID,Can Bus ID,PWM Channel,PDP Channel ID,Breaker Needed,Max. Allowed Current,Pneumatic Channel,Notes
+981S,Drive Left Front,0,0,0,20,20,-1,These are the IDs for the software sim of the 981 robot
+981S,Drive Left Rear,0,1,0,20,20,-1,
+981S,Drive Right Front,0,0,0,20,20,-1,
+981S,Drive Right Rear,0,0,0,20,20,-1,
+981S,Gripper Left,0,0,0,20,20,-1,
+981S,Gripper Right,0,1,0,20,20,-1,
+981S,Winch Motor,0,0,0,20,20,-1,
+981S,Fork Lift Motor,0,1,0,20,20,-1,
+981,Drive Right A,11,-1,3,40,28,-1,These are the IDS for the competition robot
+981,Drive Right B,12,-1,1,40,29,-1,
+981,Drive Left A,13,-1,15,40,30,-1,
+981,Drive Left B,14,-1,14,40,31,-1,`
+981,Winch,15,-1,0,40,32,-1,
+981,Arm,16,-1,11,40,40,-1,
+981,Lights,0,0,8,20,2,-1,"20 amp is overkill, but the minimum for the PDP"
+981,Raspberry Pi,0,0,9,20,3,-1,
+981,Total PDP,0,0,17,120,118,-1,
+981,Extend Arm,-1,-1,-1,-1,-1,0,
+981,Retract Arm,-1,-1,-1,-1,-1,1,
+984,Drive Left Front,11,-1,0,20,20,-1,These are the IDS for the Rhino Robot practice robot
+984,Drive Left Rear,12,-1,1,20,20,-1,
+984,Drive Left Center,13,-1,2,20,20,-1,
+984,Drive Right Front,14,-1,12,20,20,-1,
+984,Drive Right Rear,15,-1,13,20,20,-1,
+984,Drive Right Center,16,-1,14,20,20,-1,
+984,Gripper Left,17,-1,8,20,20,-1,
+984,Gripper Right,18,-1,9,20,20,-1,
+984,Winch,19,-1,4,20,20,-1,
+984,Fork Lift Motor,20,-1,5,20,20,-1,
+985,Drive Left Front,11,-1,0,20,20,-1,These are the IDs for the AM drive practice robot
+985,Drive Left Rear,12,-1,1,20,20,-1,
+985,Drive Right Front,13,-1,2,20,20,-1,
+985,Drive Right Rear,14,-1,3,20,20,-1,
+985,Gripper Left,15,-1,10,20,20,-1,
+985,Gripper Right,16,-1,11,20,20,-1,
+985,Winch Motor,17,-1,14,20,20,-1,
+985,Fork Lift Motor,18,-1,5,20,20,-1,
