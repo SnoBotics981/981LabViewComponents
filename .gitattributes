@@ -1,3 +1,5 @@
+*.docx   binary
+*.xlsx   binary
 *.vi     binary
 *.lvproj binary
 
