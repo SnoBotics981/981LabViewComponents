@@ -26,7 +26,7 @@ Robot ID,Motor ID,Can Bus ID,PWM Channel,PDP Channel ID,Breaker Needed,Max. Allo
 981,Open Gripper,-1,-1,-1,-1,-1,1,-1,-1,
 981,Extend Hook,-1,-1,-1,-1,-1,4,-1,-1,
 981,Retract Hook,-1,-1,-1,-1,-1,5,-1,-1,
-984,Drive Left Front,10,-1,0,20,20,-1,-1,-1,These are the IDS for the Rhino Robot practice robot
+984,Drive Left Front,11,-1,0,20,20,-1,-1,-1,These are the IDS for the Rhino Robot practice robot
 984,Drive Left Rear,12,-1,1,20,20,-1,-1,-1,
 984,Drive Left Center,13,-1,2,20,20,-1,-1,-1,
 984,Drive Right Front,14,-1,12,20,20,-1,-1,-1,
