@@ -45,3 +45,5 @@ Robot ID,Motor ID,Can Bus ID,PWM Channel,PDP Channel ID,Breaker Needed,Max. Allo
 985,Winch Motor,17,-1,14,20,20,-1,-1,-1,
 985,Fork Lift Motor,18,-1,5,20,20,-1,-1,-1,
 985SW,Drive Right,1,-1,1,40,20,-1,-1,-1,985 Summer Wheeled Robot right drive motor
+985SW,Drive Left,2,-1,1,40,20,-1,-1,-1,
+985SW,Lift,3,-1,1,20,10,-1,-1,-1,
