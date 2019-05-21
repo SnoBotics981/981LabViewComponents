@@ -47,3 +47,4 @@ Robot ID,Motor ID,Can Bus ID,PWM Channel,PDP Channel ID,Breaker Needed,Max. Allo
 985SW,Drive Right,1,-1,1,40,20,-1,-1,-1,985 Summer Wheeled Robot right drive motor
 985SW,Drive Left,2,-1,1,40,20,-1,-1,-1,985 Summer Wheeled Robot left drive motor
 985SW,Lift,3,-1,1,40,20,-1,-1,-1,985 Lift Motor
+
