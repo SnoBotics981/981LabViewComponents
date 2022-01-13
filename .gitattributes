@@ -2,4 +2,5 @@
 *.xlsx   binary
 *.vi     binary
 *.lvproj binary
+*.rtexe  binary
 
