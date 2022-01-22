@@ -3,6 +3,7 @@ Robot ID,Motor ID,Can Bus ID,PWM Channel,PDP Channel ID,Breaker Needed,Max. Allo
 981-2022,CanMotor12,12,-1,2,40,40,-1,-1,-1,,
 981-2022,SparkMotorPwm0,-1,0,-1,40,40,-1,-1,-1,,
 981-2022,SparkMotorPwm1,-1,1,-1,40,40,-1,-1,-1,,
+981-2022,Cylinder01,-1,-1,-1,20,20,0,-1,-1,Channels 0 and 1,
 981-2020,Drive Right A,11,-1,2,40,40,-1,-1,-1,,
 981-2020,Drive Right B,12,-1,3,40,40,-1,-1,-1,,
 981-2020,Drive Left A,13,-1,12,40,40,-1,-1,-1,,
