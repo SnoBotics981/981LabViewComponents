@@ -1,5 +1,6 @@
 Robot ID,Constant,Value,,,,,,,,Notes
 981-2022,decreaseDriveResponse,0.6,,,,,,,,
+981-2022,driveControlMode,0,,,,,,,,
 981-2020,counterForIntake,0,,,,,,,,
 981-2020,counterForPulley,0,,,,,,,,
 981-2020,counterForLoader,0,,,,,,,,
