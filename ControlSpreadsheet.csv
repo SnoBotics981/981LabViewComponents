@@ -1,6 +1,6 @@
 Robot ID,Motor ID,Can Bus ID,PWM Channel,PDP Channel ID,Breaker Needed,Max. Allowed Current,Solenoid Channel,Analog Channel,Digital I/O,Notes,
-981-2023,armMotor,1,-1,13,40,40,-1,-1,-1,,
-981-2023,gripperMotor,2,-1,12,40,40,-1,-1,-1,,
+981-2023,armMotor,2,-1,13,40,40,-1,-1,-1,Temporary change for testing.,
+981-2023,gripperMotor,1,-1,12,40,40,-1,-1,-1,,
 981-2023,elbowMotor,3,-1,15,40,40,-1,-1,-1,,
 981-2022,Drive Right A,11,-1,2,40,40,-1,-1,-1,,
 981-2022,Drive Right B,12,-1,3,40,40,-1,-1,-1,,
